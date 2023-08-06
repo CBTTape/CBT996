@@ -1,0 +1,16 @@
+2023-08-06 08:56:32.144272 - Initialized conversion of CBT996
+2023-08-06 08:56:36.403983 - Received CBT.V505.FILE996.PDS from FILE996.XMI 
+2023-08-06 08:56:36.407389 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE996.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:56:36.407399 - Found $INST.bin containing application/octet-stream, moved to PDS/$INST
+2023-08-06 08:56:36.409616 - Found @FILE996.txt (text/plain) in CBT.V505.FILE996.PDS, moved to PDS/@FILE996
+2023-08-06 08:56:36.411672 - De-xmi-ed @LIBSCAN to CBT996/docs/@LIBSCAN.pdf
+2023-08-06 08:56:36.413584 - De-xmi-ed @REXTOOL to CBT996/docs/@REXTOOL.pdf
+2023-08-06 08:56:36.415437 - De-xmi-ed @STRING to CBT996/docs/@STRING.pdf
+2023-08-06 08:56:36.418888 - Found ASUASM.txt (text/plain) in CBT.V505.FILE996.PDS, moved to PDS/ASUASM
+2023-08-06 08:56:36.419950 - Found ASUCNTL.txt (text/plain) in CBT.V505.FILE996.PDS, moved to PDS/ASUCNTL
+2023-08-06 08:56:36.421484 - Found ASUCOB.txt (text/plain) in CBT.V505.FILE996.PDS, moved to PDS/ASUCOB
+2023-08-06 08:56:36.423225 - Found EXEC.txt (text/plain) in CBT.V505.FILE996.PDS, moved to PDS/EXEC
+2023-08-06 08:56:36.424274 - Found IEBUPDT1.txt (text/plain) in CBT.V505.FILE996.PDS, moved to PDS/IEBUPDT1
+2023-08-06 08:56:36.425240 - Found MODEL.txt (text/plain) in CBT.V505.FILE996.PDS, moved to PDS/MODEL
+2023-08-06 08:56:36.426246 - Found REXXBJCL.txt (text/plain) in CBT.V505.FILE996.PDS, moved to PDS/REXXBJCL
+2023-08-06 08:56:36.427525 - Found REXXBLIB.txt (text/plain) in CBT.V505.FILE996.PDS, moved to PDS/REXXBLIB
